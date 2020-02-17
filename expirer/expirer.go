@@ -3,7 +3,7 @@ package expirer
 import (
 	"time"
 
-	"github.com/kiwiirc/plugin-fileuploader/shardedfilestore"
+	"github.com/itsonlybinary/test-fileuploader/shardedfilestore"
 	"github.com/rs/zerolog"
 )
 

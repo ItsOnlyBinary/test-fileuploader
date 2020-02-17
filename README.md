@@ -15,7 +15,7 @@ after a set time period discourages users from using the server as a permanent f
 #### Downloading the file upload server's source code
 
 ```console
-$ git clone https://github.com/kiwiirc/plugin-fileuploader.git && cd plugin-fileuploader
+$ git clone https://github.com/itsonlybinary/test-fileuploader.git && cd plugin-fileuploader
 ```
 
 #### Running the file upload server from source

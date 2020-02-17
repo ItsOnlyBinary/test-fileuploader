@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kiwiirc/plugin-fileuploader/server"
+	"github.com/itsonlybinary/test-fileuploader/server"
 	"github.com/kiwiirc/webircgateway/pkg/webircgateway"
 )
 

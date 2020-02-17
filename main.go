@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/kiwiirc/plugin-fileuploader/server"
+	"github.com/itsonlybinary/test-fileuploader/server"
 )
 
 func main() {

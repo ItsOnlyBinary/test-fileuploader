@@ -17,7 +17,7 @@ import (
 	"time"
 
 	_ "github.com/go-sql-driver/mysql" // register mysql driver
-	"github.com/kiwiirc/plugin-fileuploader/db"
+	"github.com/itsonlybinary/test-fileuploader/db"
 	_ "github.com/mattn/go-sqlite3" // register SQL driver
 	"github.com/rs/zerolog"
 	lockfile "gopkg.in/Acconut/lockfile.v1"

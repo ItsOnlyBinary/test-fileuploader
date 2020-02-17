@@ -12,7 +12,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/c2h5oh/datasize"
-	"github.com/kiwiirc/plugin-fileuploader/logging"
+	"github.com/itsonlybinary/test-fileuploader/logging"
 	"github.com/rs/zerolog"
 )
 

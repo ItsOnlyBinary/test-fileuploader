@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/kiwiirc/plugin-fileuploader/events"
+	"github.com/itsonlybinary/test-fileuploader/events"
 	"github.com/rs/zerolog"
 )
 

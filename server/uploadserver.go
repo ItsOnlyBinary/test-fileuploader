@@ -5,11 +5,11 @@ import (
 	"sync"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kiwiirc/plugin-fileuploader/db"
-	"github.com/kiwiirc/plugin-fileuploader/events"
-	"github.com/kiwiirc/plugin-fileuploader/expirer"
-	"github.com/kiwiirc/plugin-fileuploader/logging"
-	"github.com/kiwiirc/plugin-fileuploader/shardedfilestore"
+	"github.com/itsonlybinary/test-fileuploader/db"
+	"github.com/itsonlybinary/test-fileuploader/events"
+	"github.com/itsonlybinary/test-fileuploader/expirer"
+	"github.com/itsonlybinary/test-fileuploader/logging"
+	"github.com/itsonlybinary/test-fileuploader/shardedfilestore"
 	"github.com/rs/zerolog"
 )
 

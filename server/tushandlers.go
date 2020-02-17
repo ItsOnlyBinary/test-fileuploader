@@ -13,10 +13,10 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"github.com/kiwiirc/plugin-fileuploader/db"
-	"github.com/kiwiirc/plugin-fileuploader/events"
-	"github.com/kiwiirc/plugin-fileuploader/logging"
-	"github.com/kiwiirc/plugin-fileuploader/shardedfilestore"
+	"github.com/itsonlybinary/test-fileuploader/db"
+	"github.com/itsonlybinary/test-fileuploader/events"
+	"github.com/itsonlybinary/test-fileuploader/logging"
+	"github.com/itsonlybinary/test-fileuploader/shardedfilestore"
 	"github.com/tus/tusd"
 	"github.com/tus/tusd/cmd/tusd/cli/hooks"
 )
