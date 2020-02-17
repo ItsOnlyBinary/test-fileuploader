@@ -2,9 +2,6 @@ module github.com/itsonlybinary/test-fileuploader
 
 go 1.13
 
-replace golang.org/x/net => golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c
-replace golang.org/x/time => golang.org/x/time v0.0.0-20181108054448-85acf8d2951c
-
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/OneOfOne/xxhash v1.2.7 // indirect
